@@ -92,7 +92,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,java,cpp,c,html,css&theme=dark" />
     <br /><br />
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,tailwind,bootstrap&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,fastapi,flask,tailwind,bootstrap&theme=dark" />
     <br /><br />
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,docker,git&theme=dark" />
   </a>
