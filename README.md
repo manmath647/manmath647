@@ -1,116 +1,232 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Eat.%20Sleep.%20Code.%20Repeat.&descAlignY=55&descAlign=62" width="100%"/>
+<!-- ==========================================
+     ADVANCED TYPING SVG HEADER
+     Uses Orbitron font for a futuristic vibe.
+=========================================== -->
+<a href="https://github.com/manmath647">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=50&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&height=100&lines=MANMATH+KORNULE;SOFTWARE+ENGINEER;AI+%26+ML+ARCHITECT;BUILDING+THE+FUTURE" 
+    alt="Manmath Kornule" 
+  />
+</a>
 
+<br />
+
+<h3 align="center" style="color: #A8B2D1; font-style: italic; font-weight: 300;">
+  "It's not who I am underneath, but what I do that defines me." 🦇
+</h3>
+
+<br />
+
+<!-- ==========================================
+     PROFILE VIEWS BADGE
+=========================================== -->
+<a href="https://github.com/manmath647">
+  <img 
+    src="https://komarev.com/ghpvc/?username=manmath647&label=Profile%20Views&color=00F2FE&style=flat-square" 
+    alt="Profile Views" 
+  />
+</a>
+
+<br /><br />
+
+<!-- ==========================================
+     VIBEY AESTHETIC GIF
+=========================================== -->
+<img 
+  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" 
+  alt="Cyberpunk Hacker Aesthetic" 
+  width="700" 
+  style="border-radius: 12px; box-shadow: 0 0 20px rgba(0,242,254,0.4);"
+/>
+
+</div>
+
+<br /><br />
+
+<!-- ==========================================
+     AESTHETIC DIVIDER
+=========================================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00f2fe&height=2" width="80%" />
+</div>
+
+<br /><br />
+
+<!-- ==========================================
+     SHORT & PUNCHY ABOUT ME
+=========================================== -->
+<div align="center">
+  <h2>✦ <b>About Me</b> ✦</h2>
+  <p style="color: #A8B2D1; font-size: 16px;">
+    I build scalable backends, design intelligent AI systems, and craft seamless user experiences.<br/>
+    Driven by logic, design, and the pursuit of elegant code.
+  </p>
+  <p>
+    <a href="mailto:YOUR_EMAIL@example.com">
+      <img src="https://img.shields.io/badge/Contact_Me-00F2FE?style=for-the-badge&logo=minutemailer&logoColor=black" alt="Contact Me" />
+    </a>
+  </p>
+</div>
+
+<br /><br />
+
+<!-- ==========================================
+     AESTHETIC DIVIDER
+=========================================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00f2fe&height=2" width="80%" />
+</div>
+
+<br /><br />
+
+<!-- ==========================================
+     PREMIUM TECH STACK ICONS
+=========================================== -->
+<div align="center">
+  <h2>✦ <b>Tech Arsenal</b> ✦</h2>
 </div>
 
 <div align="center">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=100&lines=Hi+there+👋%2C+I'm+Manmath+Kornule;Software+Developer+🚀;AI+%26+Data+Science+Enthusiast+🤖;Building+the+Future+with+Code+💻" alt="Typing SVG" /></a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=manmath647&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="Profile Views" />
-
-<br/><br/>
-
-<h2>🦇 <i>"It's not who I am underneath, but what I do that defines me."</i> 🦇</h2>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="50" />
-
-</div>
-
-<br/>
-
-## 👨‍💻 **About Me**
-
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="30"/> <strong>Welcome to my digital garden!</strong> I'm an enthusiastic developer who loves diving into new technologies and building impactful applications. <br><br>
-      <ul>
-        <li>🔭 I’m currently working on <strong>innovative AI and Full-Stack Web Applications</strong></li>
-        <li>🌱 I’m constantly learning <strong>Machine Learning, Scalable Systems, and Cloud Native Tech</strong></li>
-        <li>💡 I love solving complex problems with elegant, efficient code.</li>
-        <li>👯 I’m looking to collaborate on <strong>exciting Open Source Projects</strong></li>
-        <li>💬 Ask me about <strong>Python, React, Machine Learning, or anything tech!</strong></li>
-        <li>📫 How to reach me: <a href="mailto:YOUR_EMAIL@example.com"><strong>Drop me an email!</strong></a></li>
-        <li>⚡ Fun fact: <strong>I can debug code in my sleep! (Well, almost)</strong></li>
-      </ul>
-    </td>
-    <td valign="center" width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTE1Njc2MzgxMWM5ZmIwZmIxMGU4YzlmMmY4NjEzODQ4OGNkMGFkYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggCGvnkMbw2xCS/giphy.gif" alt="Coding GIF" width="80%" style="border-radius:10px;" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## 🛠️ **My Tech Stack**
-
-<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css&theme=dark" />
-    <br><br>
+    <img src="https://skillicons.dev/icons?i=py,js,java,cpp,c,html,css&theme=dark" />
+    <br /><br />
     <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,tailwind,bootstrap&theme=dark" />
-    <br><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,git,github,docker,aws&theme=dark" />
-    <br><br>
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,vscode,postman,figma,arduino,raspberrypi&theme=dark" />
-  </a>
-</p>
-
-<br/>
-
-## 📈 **GitHub Analytics**
-
-<div align="center">
-  <a href="https://github.com/manmath647">
-    <img src="https://github-readme-stats.vercel.app/api?username=manmath647&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  </a>
-  <a href="https://github.com/manmath647">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manmath647&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+    <br /><br />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,docker,git&theme=dark" />
   </a>
 </div>
 
-<br/>
+<br /><br />
+
+<!-- ==========================================
+     AESTHETIC DIVIDER
+=========================================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00f2fe&height=2" width="80%" />
+</div>
+
+<br /><br />
+
+<!-- ==========================================
+     SYSTEM STATUS (AESTHETIC TERMINAL VIBE)
+=========================================== -->
+<div align="center">
+  <h2>✦ <b>System Status</b> ✦</h2>
+</div>
 
 <div align="center">
-  <a href="https://github.com/manmath647">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manmath647&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://img.shields.io/github/followers/manmath647?style=for-the-badge&color=0d1117&labelColor=00F2FE&logo=github&logoColor=black" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/manmath647?style=for-the-badge&color=0d1117&labelColor=00F2FE&logo=github&logoColor=black" alt="Stars" />
+  <img src="https://img.shields.io/github/repos/manmath647?style=for-the-badge&color=0d1117&labelColor=00F2FE&logo=github&logoColor=black" alt="Repos" />
+</div>
+
+<br />
+
+<div align="center">
+
+```bash
+manmath@mainframe:~$ ./fetch_system_status.sh
+> INITIALIZING CORE PROTOCOLS...
+> SCANNING ACTIVE REPOSITORIES... [OK]
+> OPTIMIZING ALGORITHMS... [OK]
+> 
+> STATUS: ONLINE & READY TO DEPLOY
+```
+
+</div>
+
+<br /><br />
+
+<!-- ==========================================
+     AESTHETIC DIVIDER
+=========================================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00f2fe&height=2" width="80%" />
+</div>
+
+<br /><br />
+
+<!-- ==========================================
+     FEATURED PROJECTS
+=========================================== -->
+<div align="center">
+  <h2>✦ <b>Featured Projects</b> ✦</h2>
+</div>
+
+<div align="center">
+  <table width="80%">
+    <tr>
+      <td width="50%" align="center">
+        <h3>Automatic Resume Screener</h3>
+        <p style="color: #A8B2D1;">AI-powered NLP tool matching candidates to jobs.</p>
+        <!-- ADD YOUR REPO LINK HERE (Replace href with your repository URL) -->
+        <a href="https://github.com/manmath647/Automatic-Resume-Screener-and-Job-Matcher">
+          <img src="https://img.shields.io/badge/Source_Code-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="Resume Screener Repo" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <h3>AI Dashboard Hub</h3>
+        <p style="color: #A8B2D1;">Next.js analytics dashboard for AI models.</p>
+        <!-- ADD YOUR REPO LINK HERE (Replace href with your repository URL) -->
+        <a href="https://github.com/manmath647/YOUR_PROJECT_REPO">
+          <img src="https://img.shields.io/badge/Source_Code-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="Dashboard Repo" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br /><br />
+
+<!-- ==========================================
+     AESTHETIC DIVIDER
+=========================================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00f2fe&height=2" width="80%" />
+</div>
+
+<br /><br />
+
+<!-- ==========================================
+     SOCIAL LINKS & CONTACT
+=========================================== -->
+<div align="center">
+  <h2>✦ <b>Connect With Me</b> ✦</h2>
+</div>
+
+<div align="center">
+  
+  <!-- ADD YOUR LINKEDIN LINK HERE -->
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/manmath647">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manmath647&theme=tokyonight" alt="Profile Summary" width="45%" />
+  
+  <!-- ADD YOUR TWITTER LINK HERE -->
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
+  
+  <!-- THIS IS YOUR GITHUB PROFILE LINK -->
+  <a href="https://github.com/manmath647" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  
+  <!-- ADD YOUR PORTFOLIO LINK HERE -->
+  <a href="https://YOUR_PORTFOLIO_LINK.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=firefox&logoColor=black" alt="Portfolio" />
+  </a>
+
 </div>
 
-<br/>
+<br /><br /><br />
 
-## 🐍 **Contribution Graph**
-
+<!-- ==========================================
+     SUBTLE FOOTER
+=========================================== -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manmath647/manmath647/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manmath647/manmath647/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/manmath647/manmath647/output/github-contribution-grid-snake.svg" onerror="this.src='https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif'">
-  </picture>
-  <br/>
-  <sub><i>(Set up a GitHub Action to generate the snake animation, or enjoy the fallback GIF for now!)</i></sub>
-</div>
-
-<br/>
-
-## 🔗 **Connect with me**
-
-<div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="mailto:YOUR_EMAIL@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://your-portfolio-website.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/></a>
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <p style="color: #4A5568; font-size: 12px; font-family: monospace;">
+    // Keep Building. Keep Innovating. //
+  </p>
 </div>
