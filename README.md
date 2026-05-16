@@ -139,46 +139,6 @@ manmath@mainframe:~$ ./fetch_system_status.sh
 
 <br /><br />
 
-<!-- ==========================================
-     AESTHETIC DIVIDER
-=========================================== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00f2fe&height=2" width="80%" />
-</div>
-
-<br /><br />
-
-<!-- ==========================================
-     FEATURED PROJECTS
-=========================================== -->
-<div align="center">
-  <h2>✦ <b>Featured Projects</b> ✦</h2>
-</div>
-
-<div align="center">
-  <table width="80%">
-    <tr>
-      <td width="50%" align="center">
-        <h3>Automatic Resume Screener</h3>
-        <p style="color: #A8B2D1;">AI-powered NLP tool matching candidates to jobs.</p>
-        <!-- ADD YOUR REPO LINK HERE (Replace href with your repository URL) -->
-        <a href="https://github.com/manmath647/Automatic-Resume-Screener-and-Job-Matcher">
-          <img src="https://img.shields.io/badge/Source_Code-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="Resume Screener Repo" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <h3>AI Dashboard Hub</h3>
-        <p style="color: #A8B2D1;">Next.js analytics dashboard for AI models.</p>
-        <!-- ADD YOUR REPO LINK HERE (Replace href with your repository URL) -->
-        <a href="https://github.com/manmath647/YOUR_PROJECT_REPO">
-          <img src="https://img.shields.io/badge/Source_Code-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="Dashboard Repo" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br /><br />
 
 <!-- ==========================================
      AESTHETIC DIVIDER
